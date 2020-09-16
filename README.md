@@ -7,9 +7,15 @@
 
 View full Video ⬇︎
 
-[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)]()
+[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/JVJDNjK_-9w)
 
 
 ### Download  ➤ [VoodooHDA OC](https://github.com/chris1111/VoodooHDA-OC/releases/tag/V1)
+
+
+Build by [chris1111](https://github.com/chris1111/)
+Created from [Script Debuger](https://latenightsw.com)
+Based on CloverPackage [MountEFI Script](https://sourceforge.net/projects/cloverefiboot/)
+VoodooHDA Dev [VoodooHDA](https://sourceforge.net/p/voodoohda/code/HEAD/tree/)
 
 
