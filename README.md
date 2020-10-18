@@ -17,7 +17,7 @@ View full Video ⬇︎
 
 #### Credit:
 - Build by [chris1111](https://github.com/chris1111/)
-- Build From [Script Debuger](https://latenightsw.com/)
+- Build From [Script Debugger](https://latenightsw.com/)
 - Based on CloverPackage [MountEFI Script](https://sourceforge.net/projects/cloverefiboot/)
 - VoodooHDA Dev [VoodooHDA](https://sourceforge.net/p/voodoohda/code/HEAD/tree/)
 - OpenCore Team [OpenCore](https://github.com/acidanthera/OpenCorePkg)
