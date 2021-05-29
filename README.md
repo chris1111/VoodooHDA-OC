@@ -1,7 +1,7 @@
 # VoodooHDA-OC
 - Working from 10.12 to macOS Big Sur 11
 - SIP security and Gatekeeper must be disable.
-
+## WARNING ➤ [For now the kext not working injected from bootloader on BS 11.3 and later](https://www.insanelymac.com/forum/topic/314406-voodoohda-297/page/21/)
 
 #### Continue here: ⬇︎
 ![Capture ](https://user-images.githubusercontent.com/6248794/103315220-fd913f80-49f2-11eb-8c83-9c347004f4c3.png)
